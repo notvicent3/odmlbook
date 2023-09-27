@@ -5,7 +5,7 @@
 
 ### Chapter 01
 #### Jupyter Notebook
-https://colab.research.google.com/drive/1nV3nQ1CnooGVb04Mqpx_OgTZ5jYjI-Ad?usp=sharing
+![JupyterNotebook](https://colab.research.google.com/drive/1nV3nQ1CnooGVb04Mqpx_OgTZ5jYjI-Ad)
 
 
 ## -HTML index.html for Index and read all the content as web UI
